@@ -11,7 +11,7 @@ Used technologies:
 
 |Purpose|Technology|
 |---|---|
-|Collecting data|Arduino nano IoT 33|
+|Collecting data|Arduino nano IoT 33 with DHT11 module|
 |Database|MySQL|
 |Server Backend|Java|
 |Server Frontend|Still have to decide|
