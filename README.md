@@ -12,6 +12,6 @@ Used technologies:
 |Purpose|Technology|
 |---|---|
 |Collecting data|Arduino nano IoT 33|
-|Database|To be determined|
+|Database|Firebase|
 |Server Backend|Java To be determined|
 |Server Frontend| JavaScript to be determined|
