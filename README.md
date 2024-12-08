@@ -24,11 +24,13 @@ Languages:
 - JavaScript
 - MySQL
 <br>
+
 Libraries:
 - WifiNiNa on Arduino
 - ArduinoHTTPClient on Arduino
 - JSChart on JavaScript
 <br>
+
 Operating Systems:
 - Windows on my personal machine to develop
 - Linux server-side
